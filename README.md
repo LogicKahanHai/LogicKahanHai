@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [My Portfolio Website](https://rishibhalla.me)
+- 🔭 I’m currently working on My Portfolio Website
 - 🌱 I’m diving deep into **System Design & DevOps**
 - 💌 How to reach me: <a href="mailto:contact.logickahanhai@gmail.com">contact.logickahanhai@gmail.com</a>
 
@@ -36,6 +36,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Frameworks & Libraries:
 
@@ -45,26 +47,26 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 ### Tools & Platforms:
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-F38020?style=flat-square&logo=amazonaws&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) 
+
+(P.S. - I don't use Visual Studio Code anymore. I prefer Neovim)
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LogicKahanHai&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogicKahanHai&theme=dark&hide_border=false">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicKahanHai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LogicKahanHai&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </p>
 
 ---
