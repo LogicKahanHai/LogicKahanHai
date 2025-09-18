@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on My Portfolio Website
-- 🌱 I’m diving deep into **System Design & DevOps**
-- 💌 How to reach me: <a href="mailto:contact.logickahanhai@gmail.com">contact.logickahanhai@gmail.com</a>
+- 🔭 I’m currently working on [Illogical.in](https://illogical.in)
+- 🌱 I’m diving deep into **NestJS and NextJS**
+- 💌 How to reach me: <a href="mailto:rishi@illogical.in">rishi@illogical.in</a>
 
 ---
 
@@ -56,8 +56,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) 
-
-(P.S. - I don't use Visual Studio Code anymore. I prefer Neovim)
 
 ---
 
