@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=LogicKahanHai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<h1 align="center">👋 Hello, I'm Rishi Bhalla!</h1>
+![LogicKahanHai's GitHub Banner](https://raw.githubusercontent.com/LogicKahanHai/LogicKahanHai/main/banner.png)
 <h3 align="center">Developer by Day 🧑‍💻 | Musician by Night 🥁</h3>
 
 ---
